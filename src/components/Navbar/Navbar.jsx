@@ -1,7 +1,7 @@
 import React from 'react';
 import CartWidget from '../CartWidget/CartWidget.jsx'
 import Categorias from '../Categorias/Categorias.jsx'
-import ItemListContainer from '../ItemListContainer/ItemListContainer.jsx';
+
 
 const Navbar = ({nombre}) => {
     return (
@@ -13,9 +13,8 @@ const Navbar = ({nombre}) => {
             </a>
             <Categorias/>
             <CartWidget cantidadCarrito={5}/>
-            <ItemListContainer greeting={"Bienvenido a Lux Autos"}/>
             </div>
-      </nav>
+        </nav>
     );
 }
 
