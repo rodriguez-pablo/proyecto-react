@@ -1,0 +1,121 @@
+[
+    {
+        "id": 1,
+        "idCategoria": 1,
+        "nombre": "Nivus",
+        "marca": "Volkswagen",
+        "transmision": "automatico",
+        "precio": 10000000,
+        "stock": 3,
+        "img": "nivus.jpg"
+    },
+    {
+    "id": 2,
+    "idCategoria": 1,
+    "nombre": "2008",
+    "marca": "Peugeot",
+    "transmision": "manual",
+    "precio": 4500000,
+    "stock": 2,
+    "img": "peugeot-2008.jpg"
+    },
+    {
+        "id": 3,
+        "idCategoria": 1,
+        "nombre": "Duster",
+        "marca": "Renault",
+        "transmision": "manual",
+        "precio": 5000000,
+        "stock": 2,
+        "img": "duster.jpg"
+    },
+    {
+        "id": 4,
+        "idCategoria": 1,
+        "nombre": "Renegade",
+        "marca": "Jeep",
+        "transmision": "automatico",
+        "precio": 6500000,
+        "stock": 1,
+        "img": "Renegade.jpg"
+    },
+    {
+        "id": 5,
+        "idCategoria": 2,
+        "nombre": "Versa",
+        "marca": "Nissan",
+        "transmision": "manual",
+        "precio": 7000000,
+        "stock": 3,
+        "img": "versa.jpg"
+    },
+    {
+        "id": 6,
+        "idCategoria": 2,
+        "nombre": "Virtus",
+        "marca": "Volkswagen",
+        "transmision": "manual",
+        "precio": 5000000,
+        "stock": 4,
+        "img": "virtus.jpg"
+    },
+    {
+        "id": 7,
+        "idCategoria": 2,
+        "nombre": "Cronos",
+        "marca": "Fiat",
+        "transmision": "manual",
+        "precio": 4000000,
+        "stock": 5,
+        "img": "cronos.jpg"
+    },
+    {
+        "id": 8,
+        "idCategoria": 2,
+        "nombre": "Logan",
+        "marca": "Renault",
+        "transmision": "manual",
+        "precio": 3700000,
+        "stock": 2,
+        "img": "logan.jpg"
+    },
+    {
+        "id": 9,
+        "idCategoria": 3,
+        "nombre": "Fiorino",
+        "marca": "Fiat",
+        "transmision": "manual",
+        "precio": 4500000,
+        "stock": 3,
+        "img": "fiorino.jpg"
+    },
+    {
+        "id": 10,
+        "idCategoria": 3,
+        "nombre": "Ducato",
+        "marca": "Fiat",
+        "transmision": "manual",
+        "precio": 11000000,
+        "stock": 2,
+        "img": "ducato.jpg"
+    },
+    {"id": 11,
+    "idCategoria": 3,
+    "nombre": "Kangoo",
+    "marca": "Renault",
+    "transmision": "manual",
+    "precio": 5280000,
+    "stock": 3,
+    "img": "kangoo.jpg"
+    },
+    {
+        "id": 12,
+        "idCategoria": 3,
+        "nombre": "Partner",
+        "marca": "Peugeot",
+        "transmision": "manual",
+        "precio": 6430000,
+        "stock": 2,
+        "img": "partner.jpg"
+    }
+]
