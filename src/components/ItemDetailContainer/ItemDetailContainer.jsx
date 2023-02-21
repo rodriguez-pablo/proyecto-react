@@ -11,9 +11,8 @@ const ItemDetailContainer = () => {
         consultarBDD('../json/productos.json').then(prods => {
             const prod = prods.find(item => item.id === parseInt(id))
             setProducto(prod)
-            console.log(prod)
         })
-    }, [])
+    }, [id])
 
     return (
         <div className='card mb-3 container itemDetail'>

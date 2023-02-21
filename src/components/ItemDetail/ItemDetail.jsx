@@ -1,6 +1,6 @@
 import React from 'react';
 import ItemCount from "../ItemCount/ItemCount"
-const ItemDetail = (prod) => {
+const ItemDetail = ({prod}) => {
     return (
         <div className="card mb-3" style={{maxWidth: '540px'}}>
             <div className="row g-0">

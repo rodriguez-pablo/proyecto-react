@@ -10,7 +10,7 @@ const Navbar = ({nombre}) => {
             <div className="container-fluid">
                 <Link className='nav-link' to={'/'}>
                     <button className="btn btn-ligth">
-                        <img src="./img/logo.png" alt="" width={30} height={24} className="d-inline-block align-text-top" />
+                        <img src="../img/logo.png" alt="" width={30} height={24} className="d-inline-block align-text-top" />
                         {nombre}
                     </button>
                 </Link>
