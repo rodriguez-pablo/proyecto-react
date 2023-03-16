@@ -16,6 +16,27 @@
     text-align: center;
 }
 
+.cardBodyDark{
+    background: hsl(0, 0%, 33%);
+    margin-top: 3px;
+    text-align: center;
+    color: wheat;
+}
+
+.cartContainer{
+    margin-top: 3%;
+    margin-left: 26.5%;
+}
+
+.cardCart{
+    max-width: 640px;
+}
+
+
+.divButtons button{
+    margin: 4px;
+}
+
 img{
     margin-top: 4px;
 }
@@ -24,3 +45,34 @@ img{
     max-width: 540px;
     margin-top: 4px;
 }
+
+.itemDetailBodyDark{
+    background: hsl(0, 0%, 33%);
+    color: white;
+    max-width: 540px;
+}
+
+.darkMode{
+    background-color: #202020;
+    
+}
+
+.contForm{
+    margin-top: 20px;
+}
+
+.btn{
+    margin: 4px;
+}
+
+.cantCarrito{
+    position: relative;
+    left: 15%;
+}
+
+.tituloVacio{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
+
